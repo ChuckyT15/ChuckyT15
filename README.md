@@ -10,7 +10,7 @@
 ## 💼 Experience
 
 ### Software Engineering Intern @ Group Management Services, Inc.
-**May 2023 - Aug 2025 | Richfield, OH**
+**May 2025 - Aug 2025 | Richfield, OH**
 - Developed 25+ UI/UX enhancements in React Native
 - Optimized .NET Minimal API for insurance data handling
 - Built insurance card sharing feature serving 18,000+ users
