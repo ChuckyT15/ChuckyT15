@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About Me!
+🚀 About Me
 🎓 Computer Science & Engineering student at The Ohio State University (Expected May 2027)
 🧠 Specializing in Artificial Intelligence
 💻 Software Engineering Intern
