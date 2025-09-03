@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ChuckyT15/ChuckyT15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me!
 🎓 Computer Science & Engineering student at The Ohio State University (Expected May 2027)
 🧠 Specializing in Artificial Intelligence
@@ -67,5 +64,3 @@ Trap Your Friends Obby
 🥇 1st Place - OSU Quantathon2025 Competition
 🎖️ 2nd Place - Fundamentals of Engineering Game Competition (80+ students)
 📚 Dean's List - The Ohio State University
-
--->
