@@ -68,12 +68,6 @@
 - Won 1st place in OSU Quantathon2025 competition
 - **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-### [Trap Your Friends Obby](https://github.com/yourusername/roblox-game)
-🎮 **Roblox Game Development** | *Jun 2023 - Dec 2024*
-- Developed a Roblox game with 120+ plays using Lua
-- Implemented 3D modeling, animations, and memory-based checkpoint system
-- 1100+ lines of custom code and scripts
-
 ## 🏅 Achievements & Competitions
 - 🥈 **2nd Place** - HackOHI/O 12 Hackathon, Honda Track (1400+ participants)
 - 🥇 **1st Place** - OSU Quantathon2025 Competition  
