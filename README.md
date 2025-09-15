@@ -56,13 +56,13 @@
 
 ## 🏆 Featured Projects
 
-### [AutoIntelligence](https://github.com/yourusername/autointelligence)
+### [AutoIntelligence](https://github.com/danielyyi/HackOHI-O-2024)
 🚗 **Distracted Driving Detection System** | *Oct 2024*
 - Applied machine learning algorithms in Python to detect distracted driving
 - Won 2nd place out of 1400+ registrants in HackOHI/O 12 hackathon
 - **Tech Stack:** Python, OpenCV, MediaPipe, JavaScript, React.js
 
-### [Market Regime Analyzer](https://github.com/yourusername/market-analyzer)
+### [Market Regime Analyzer](https://github.com/MaddoxCRoy/QuantHackathon25)
 📈 **Financial Market Prediction** | *Mar 2025*
 - Built random forest algorithm using Scikit-learn to analyze market regimes
 - Won 1st place in OSU Quantathon2025 competition
