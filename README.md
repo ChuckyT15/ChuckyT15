@@ -70,7 +70,6 @@
 ## 🏅 Achievements & Competitions
 - 🥈 **2nd Place** - HackOHI/O 12 Hackathon, Honda Track (1400+ participants)
 - 🥇 **1st Place** - OSU Quantathon2025 Competition  
-- 🎖️ **2nd Place** - Fundamentals of Engineering Game Competition (80+ students)
 - 📚 **Dean's List** - The Ohio State University
 
 ## 📫 Let's Connect!
