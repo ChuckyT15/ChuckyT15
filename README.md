@@ -53,7 +53,7 @@
 ## 🏆 Featured Projects
 
 ### [FitAI](https://github.com/ChuckyT15/FitAI)
-🚗 **AI-Powered Fitness and Nutrition** | *Oct 2024*
+🚗 **AI-Powered Fitness and Nutrition** | *Oct 2025*
 - Developed a full-stack web application providing university-specific workout plans and nutrition plans
 - Implemented AI-driven personalization via TensorFlow.js body scanning, analyzing pose landmarks, joint 
   alignment, and body proportions to generate customized fitness routines
