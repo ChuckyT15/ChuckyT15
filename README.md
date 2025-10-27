@@ -34,9 +34,8 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### Tools & Technologies
@@ -48,25 +47,25 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ## 🏆 Featured Projects
+
+### [FitAI](https://github.com/ChuckyT15/FitAI)
+🚗 **AI-Powered Fitness and Nutrition** | *Oct 2024*
+- Developed a full-stack web application providing university-specific workout plans and nutrition plans
+- Implemented AI-driven personalization via TensorFlow.js body scanning, analyzing pose landmarks, joint 
+  alignment, and body proportions to generate customized fitness routines
+- Engineered a health-oriented chatbot integrating the Gemini API that leveraged a Supabase-hosted PostgreSQL 
+  database to provide real-time, context-aware responses using 10+ campus-specific data tables 
+- **Tech Stack:** React.js, TailwindCSS, Supabase, Gemini API, TensorFlow.js, Express.js, Node.js
 
 ### [AutoIntelligence](https://github.com/danielyyi/HackOHI-O-2024)
 🚗 **Distracted Driving Detection System** | *Oct 2024*
 - Applied machine learning algorithms in Python to detect distracted driving
 - Won 2nd place out of 1400+ registrants in HackOHI/O 12 hackathon
 - **Tech Stack:** Python, OpenCV, MediaPipe, JavaScript, React.js
-
-### [Market Regime Analyzer](https://github.com/MaddoxCRoy/QuantHackathon25)
-📈 **Financial Market Prediction** | *Mar 2025*
-- Built random forest algorithm using Scikit-learn to analyze market regimes
-- Won 1st place in OSU Quantathon2025 competition
-- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## 🏅 Achievements & Competitions
 - 🥈 **2nd Place** - HackOHI/O 12 Hackathon, Honda Track (1400+ participants)
